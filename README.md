@@ -5,4 +5,4 @@ LLL
 H#H
 L = leather
 H = tripwire hook
-# empty slots
+\# empty slots
