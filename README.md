@@ -1,4 +1,5 @@
-# Recipe for saddles, made this in a few hours a while back
+# aSaddleRecipe
+Adds a crafting recipe for the existing saddle item.
 # Recipe
 	LLL
 	H H
